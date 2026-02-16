@@ -3,7 +3,7 @@ This repository covers a structured study of PyTorch fundamentals with the long-
 
 ## Content Covered
 | Topic | Key Concepts |
-|-------|--------|--------------|
+|-------|--------------|
 | PyTorch Fundamentals | Tensor creation, tensor operations, tensor manipulations (reshaping, indexing, etc) |
 | PyTorch Workflow | Data preparation and model building |
 
