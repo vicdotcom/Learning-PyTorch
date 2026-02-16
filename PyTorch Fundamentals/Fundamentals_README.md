@@ -3,7 +3,7 @@ This section covers the fundamental building blocks of PyTorch: Tensors.
 
 ## Concepts Covered
 - What tensors are and their distinction from NumPy arrays.
-- Tensor creation. Here we walk through creating various tensor types:
+- Tensor creation for various tensor types:
     - Scalar, Vectors, Matrices, 3D, 4D,.... tensors
     - Random tensors
     - Zeros and Ones tensors
