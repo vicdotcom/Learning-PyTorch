@@ -5,5 +5,5 @@ This repository covers a structured study of PyTorch fundamentals with the long-
 | Topic | Key Concepts |
 |-------|--------------|
 | [PyTorch Fundamentals](https://github.com/vicdotcom/Learning-PyTorch/tree/main/PyTorch%20Fundamentals) | Tensor creation, tensor operations, tensor manipulations (reshaping, indexing, etc) |
-| PyTorch Workflow | Data preparation and model building |
+| [PyTorch Workflow](https://github.com/vicdotcom/Learning-PyTorch/tree/main/PyTorch%20Workflow) | Data preparation and model building |
 
