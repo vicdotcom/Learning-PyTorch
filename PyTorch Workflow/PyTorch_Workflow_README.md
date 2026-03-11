@@ -9,8 +9,8 @@ Here we cover a standard machine learning workflow by constructing a simple line
 As part of the ML workflow we cover:
 - Data splitting (Training, Validation, Testing sets)
 - Building a simple Linear Regression model via PyTorch which consists of:
--     - Parameter initializations
-      - Defining a loss function and optimizer for the model
+  - Parameter initializations
+  - Defining a loss function and optimizer for the model
 - Constructing model training loops that run through the data
 - Model evaluation
 - How to tell if a model is well-fit/overfitted/undefitted
