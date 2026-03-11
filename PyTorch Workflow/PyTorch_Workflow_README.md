@@ -1,7 +1,7 @@
 ## PyTorch Workflow
 Here we cover a standard machine learning Workflow in PyTorch by constructing a simple `LinearRegressionModel()`. This workflow entails:
 1. Loading and preparing the data
-2. Build a model (or picking a pretrained model). Building a model entails model training/fitting where we optimize the model's parameters to decrease the error between the predicted output and actual values.
+2. Model building and training/fitting where we optimize the model's parameters to decrease the error between the predicted output and actual values.
 3. Making predictions and evaluating the model's output against actual data.
 4. Saving and loading a pre-trained model.
 
