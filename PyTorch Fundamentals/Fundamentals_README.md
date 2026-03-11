@@ -1,5 +1,5 @@
 # PyTorch Fundamentals
-This section covers the fundamental building blocks of PyTorch: Tensors.
+This section covers the fundamental building blocks of PyTorch: Tensors. These are data structures similar to NumPy arrays that enable the core features of the PyTorch framework.
 
 ## Concepts Covered
 - What tensors are and their distinction from NumPy arrays.
