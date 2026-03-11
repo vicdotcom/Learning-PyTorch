@@ -5,7 +5,7 @@ Here we cover a standard machine learning workflow by constructing a simple line
 3. Making predictions and evaluating the model's output against actual data.
 4. Saving and loading a pre-trained model.
 
-### Topics covered
+### Topics Covered
 As part of the ML workflow we cover:
 - Data splitting (Training, Validation, Testing sets)
 - Building a simple Linear Regression model via PyTorch which consists of:
